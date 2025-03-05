@@ -27,4 +27,5 @@ I contributed over 90% to this project, actively participating in development, d
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/fsevindik/React_ToDo.git
+
